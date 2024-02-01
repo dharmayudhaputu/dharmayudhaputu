@@ -6,7 +6,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/will', function (req, res) {
-    res.send('{ "response": "Hello World Yudha Tes 3" }');
+    res.send('{ "response": "Hello World Yudha Tes 4" }');
 });
 app.get('/ready', function (req, res) {
     res.send('{ "response": " Great!, It works!" }');
